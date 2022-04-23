@@ -82,8 +82,9 @@ a {
         padding: 0px;
         display: none;
     }
+    
     .navbar_toggleBtn {
-        display: block;
+        display: block; /* togle button 이 block으로 나오게 됨 */
     }
 
     .navbar_menu.active,
